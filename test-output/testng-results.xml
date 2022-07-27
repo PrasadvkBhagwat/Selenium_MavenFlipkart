@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-23T20:03:44 IST" name="Suite" finished-at="2022-07-23T20:04:07 IST" duration-ms="22954">
+    <groups>
+    </groups>
+    <test started-at="2022-07-23T20:03:44 IST" name="Test" finished-at="2022-07-23T20:04:07 IST" duration-ms="22954">
+      <class name="testClasses.VerifyUserCanLogin">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testClasses.VerifyUserCanLogin@4135c3b]" started-at="2022-07-23T20:03:44 IST" name="beforeClass" finished-at="2022-07-23T20:03:54 IST" duration-ms="9426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanLogin@4135c3b]" started-at="2022-07-23T20:03:54 IST" name="beforeMethod" finished-at="2022-07-23T20:03:54 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyUserCanLogin()[pri:0, instance:testClasses.VerifyUserCanLogin@4135c3b]" started-at="2022-07-23T20:03:54 IST" name="verifyUserCanLogin" finished-at="2022-07-23T20:03:56 IST" duration-ms="2474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testClasses.VerifyUserCanLogin@4135c3b]" started-at="2022-07-23T20:03:56 IST" name="afterMethod" finished-at="2022-07-23T20:03:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanLogin@4135c3b]" started-at="2022-07-23T20:03:56 IST" name="afterClass" finished-at="2022-07-23T20:03:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanLogin -->
+      <class name="testClasses.VerifyUserCanAddNewAddress">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:03:56 IST" name="beforeClass" finished-at="2022-07-23T20:03:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:03:56 IST" name="beforeMethod" finished-at="2022-07-23T20:03:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyUserCanGoToProfilePage()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:03:56 IST" name="verifyUserCanGoToProfilePage" finished-at="2022-07-23T20:04:01 IST" duration-ms="5021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanGoToProfilePage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:04:01 IST" name="afterMethod" finished-at="2022-07-23T20:04:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:04:01 IST" name="beforeMethod" finished-at="2022-07-23T20:04:01 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyUserCanAddAddress()[pri:1, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:04:01 IST" name="verifyUserCanAddAddress" finished-at="2022-07-23T20:04:07 IST" duration-ms="5749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanAddAddress -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:04:07 IST" name="afterMethod" finished-at="2022-07-23T20:04:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanAddNewAddress@4d5d943d]" started-at="2022-07-23T20:04:07 IST" name="afterClass" finished-at="2022-07-23T20:04:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanAddNewAddress -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
